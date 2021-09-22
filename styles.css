@@ -1,0 +1,77 @@
+
+body{
+text-align: center;
+color:white;
+font-family: 'Courgette', 'cursive';
+}
+.containerA {
+  max-width:800px;
+  width:100%;
+}
+.btn {
+  text-decoration-color: white;
+}
+.brand {
+  font-family: 'WindSong', 'cursive';
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.author {
+    font-family: 'WindSong', 'cursive';
+}
+
+.nav-link{
+  color:white;
+}
+.maiPic {
+  max-width: 50%;
+  height: auto;
+  padding: .25rem;
+}
+.bookPic {
+ max-width:50%;
+  height:auto;
+  padding:.25rem;
+}
+.title {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.bookpage {
+  max-width:50%;
+  height:auto;
+}
+
+.cardImg {
+  max-width:50%;
+  padding:.25rem;
+  text-align:center;
+  height:auto;
+}
+
+
+h1 {
+  font-size:3rem;
+  line-height:1.5;
+}
+h2 {
+  font-size:2.5rem;
+  line-height:1.5;
+}
+h4 {
+  font-size:2rem;
+  line-height:1.5;
+}
+h5 {
+  font-size: 1.5rem;
+  line-height:1.5;
+}
+p {
+  font-size:1.5rem;
+  line-height:1.5;
+  text-indent:1rem;
+}
+
+img:hover {
+  cursor:pointer;
+}
