@@ -41,14 +41,12 @@ font-family: 'Courgette', 'cursive';
   max-width:50%;
   height:auto;
 }
-
 .cardImg {
   max-width:50%;
   padding:.25rem;
   text-align:center;
   height:auto;
 }
-
 
 h1 {
   font-size:3rem;
@@ -71,7 +69,6 @@ p {
   line-height:1.5;
   text-indent:1rem;
 }
-
 img:hover {
   cursor:pointer;
 }
